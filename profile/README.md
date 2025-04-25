@@ -1,10 +1,37 @@
 # Junketsu stacking org
 
-Организация юных умов, что делают проекты разных масштабов и для разных направлений
+Организация юных умов, что делают проекты разных масштабов и для разных направлений. 
 
-<tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/Junketsu-stacking/.github/blob/main/github-metrics.svg" alt=""></img>
-      <img width="900" height="1" alt="">
-    </td>
-</tr>
+---
+
+## Наши проекты  
+
+Вот несколько ключевых проектов, над которыми мы работаем:  
+
+| Проект | Описание | Стек | Статус | Доступ | 
+|--------|----------|------|--------|--------|  
+| [AniUtils](https://github.com/org/project1) | Синхронизация списков. | Python, React | ✅ В доработке | [Сайт]() 
+| [JunketsuChat](https://github.com/org/project2) | Мессенджер на основе блокчейна. | Go, Python, Assembler, Vue | ✅ Завершен | Только для разработчиков 
+
+---
+
+## Технологический стек   
+
+### Backend  
+- **Языки**: Python, Go, Java   
+- **Фреймворки**: FastAPI, Django, Flask, Spring  
+- **Базы данных**: PostgreSQL, Redis, MongoDB  
+
+### Frontend  
+- **Языки**: TypeScript, JavaScript  
+- **Фреймворки**: React, Next.js, Vue  
+- **Стили**: TailwindCSS, SCSS  
+
+### DevOps & Cloud  
+- **Инфраструктура**: Kubernetes, Docker    
+- **CI/CD**: GitHub Actions 
+
+### Другое    
+- **ML/AI**: PyTorch, TensorFlow  
+
+---  
