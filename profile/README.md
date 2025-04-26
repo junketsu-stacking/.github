@@ -10,7 +10,7 @@
 
 | Проект | Описание | Стек | Статус | Доступ | 
 |--------|----------|------|--------|--------|  
-| [AniUtils](https://github.com/org/project1) | Синхронизация списков. | Python, React | ✅ В доработке | [Сайт]() 
+| [AniUtils](https://github.com/org/project1) | Синхронизация списков. | Python, React | ✅ В доработке | [Сайт](http://junketsu.ru) 
 | [JunketsuChat](https://github.com/org/project2) | Мессенджер на основе блокчейна. | Go, Python, Assembler, Vue | ✅ Завершен | Только для разработчиков 
 
 ---
