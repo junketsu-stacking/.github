@@ -10,6 +10,8 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: TOKENS
     steps:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
