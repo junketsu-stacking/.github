@@ -88,8 +88,7 @@
 ## 📬 Контакты
 
 - 🌐 [junketsu.ru](https://junketsu.ru)  
-- 💬 [Telegram](https://t.me/junketsu_chat)  
-- 🐦 [Twitter / X](https://twitter.com/junketsu_org)  
+- 💬 [Telegram](https://t.me/)  
 
 ---
 
