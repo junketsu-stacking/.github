@@ -24,7 +24,7 @@
 
 | Проект | Описание | Стек | Статус |
 |--------|----------|------|--------|
-| [AniUtils](https://github.com/junketsu/AniUtils) | Синхронизация аниме-листов между платформами | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) | ![Active](https://img.shields.io/badge/🟢_Active-success) |
+| [AniUtils](https://github.com/junketsu/AniUtils) | Синхронизация аниме-листов между платформами | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) | ![Active](https://img.shields.io/badge/🟢_Active-success) |
 | [JunketsuChat](https://github.com/junketsu/JunketsuChat) | Децентрализованный мессенджер на блокчейне | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js) | ![Completed](https://img.shields.io/badge/✅_Completed-informational) |
 
 ### 🌱 Новые проекты
@@ -40,6 +40,7 @@
 
 ### 🔙 Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)
