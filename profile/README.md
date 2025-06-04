@@ -93,10 +93,7 @@
 ---
 
 <blockquote align="center">
-  “Программирование — это не просто написание кода, это создание вселенных.”<br/>
+  “Наши проекты это просто йоу”<br/>
   <em>— Участник Junketsu Stacking Org</em>
 </blockquote>
 
-<p align="center">
-  <img src="https://github.com/junketsu/.github/blob/main/profile/footer.svg" width="80%"/>
-</p>
