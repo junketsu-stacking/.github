@@ -1,92 +1,111 @@
-# Junketsu Stacking Org 🚀  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/junketsu/.github/main/profile/logo.svg" height="100" alt="Junketsu Logo" />
+</p>
 
-Сообщество молодых инноваторов, создающих проекты разных масштабов для решения разнообразных задач. Мы сочетаем глубокие технические знания с творческим подходом для построения будущего.
-
----
-
-## 📊 Организационные метрики  
-Динамика нашей активности и роста:  
-
-![Активность участников](https://github.com/junketsu/junketsu/blob/main/metrics/activity.svg)
-![Рост сообщества](https://github.com/junketsu/junketsu/blob/main/metrics/contributors.svg)
+<h1 align="center">Junketsu Stacking Org 🚀</h1>
+<p align="center">Сообщество молодых инноваторов, создающих проекты, формирующие будущее</p>
 
 ---
 
-## 🚀 Наши проекты  
+## 📈 Метрики активности
 
-### 🔑 Ключевые инициативы  
+> Актуальные данные обновляются ежедневно благодаря GitHub Actions.
 
-| Проект | Описание | Стек | Статус |  
-|--------|----------|------|--------|  
-| [AniUtils](https://github.com/junketsu/AniUtils) | Синхронизация аниме-листов | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) | ![Active](https://img.shields.io/badge/🟢_Active-success) |  
-| [JunketsuChat](https://github.com/junketsu/JunketsuChat) | Мессенджер на блокчейне | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js) | ![Completed](https://img.shields.io/badge/✅_Completed-informational) |  
-
-### 🌱 Новые проекты  
-| Проект | Стадия |  
-|--------|--------|  
-| [BestBot](https://github.com/junketsu/BestBot) | ![Incubation](https://img.shields.io/badge/🔬_Incubation-blueviolet) |  
-| [Secret](https://github.com/junketsu/Secret) | ![Research](https://img.shields.io/badge/🔍_Research-lightgrey) |  
-
----
-
-## 🛠 Технологический стек  
-
-### 🔙 Backend  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-
-### 🔜 Frontend  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-### ☁️ DevOps & Cloud  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-
-### 🧠 Интеллектуальные системы  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21F?logo=huggingface&logoColor=black)
+<table>
+  <tr>
+    <td><img src="https://github.com/junketsu/junketsu/blob/main/metrics/activity.svg" alt="Активность участников" /></td>
+    <td><img src="https://github.com/junketsu/junketsu/blob/main/metrics/contributors.svg" alt="Вклад сообщества" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/junketsu/junketsu/blob/main/metrics/calendar.svg" alt="Календарь активности" /></td>
+    <td><img src="https://github.com/junketsu/junketsu/blob/main/metrics/people.svg" alt="Люди и связи" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github.com/junketsu/junketsu/blob/main/metrics/activity-timeline.svg" alt="Хронология активности" /></td>
+  </tr>
+</table>
 
 ---
 
-## 🌟 Как присоединиться  
-1. **Изучите наши проекты** - [Список репозиториев](https://github.com/orgs/junketsu/repositories)  
-2. **Присоединяйтесь к обсуждению** - [Discord-сервер](https://discord.gg/junketsu)  
-3. **Создайте issue** - Предложите улучшение или новую идею  
-4. **Отправьте PR** - Мы рады первым контрибьюшенам!  
+## 🚀 Наши проекты
 
-![График активности](https://github.com/junketsu/junketsu/blob/main/metrics/calendar.svg)
+### 🔑 Ключевые инициативы
+
+| Проект | Описание | Стек | Статус |
+|--------|----------|------|--------|
+| [AniUtils](https://github.com/junketsu/AniUtils) | Синхронизация аниме-листов | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) | ![Active](https://img.shields.io/badge/🟢_Active-success) |
+| [JunketsuChat](https://github.com/junketsu/JunketsuChat) | Мессенджер на блокчейне | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js) | ![Completed](https://img.shields.io/badge/✅_Completed-informational) |
+
+### 🌱 Новые проекты
+
+| Проект | Стадия |
+|--------|--------|
+| [BestBot](https://github.com/junketsu/BestBot) | ![Incubation](https://img.shields.io/badge/🔬_Incubation-blueviolet) |
+| [Secret](https://github.com/junketsu/Secret) | ![Research](https://img.shields.io/badge/🔍_Research-lightgrey) |
 
 ---
 
-## 🏆 Наши принципы  
-- **Инновации через эксперименты** - Поощряем нестандартные подходы  
-- **Open Source First** - 90% наших проектов с открытым кодом  
-- **Обучение через практику** - Каждый участник получает менторскую поддержку  
-- **Технологический нейтралитет** - Выбираем инструменты под задачу  
+## 🛠 Наш стек технологий
+
+### Backend
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss)
+
+### DevOps & Cloud
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
+
+### AI & ML
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21F?logo=huggingface)
 
 ---
 
-## 📬 Контакты  
+## 🌟 Как присоединиться
+
+1. Изучите проекты — [все репозитории](https://github.com/orgs/junketsu/repositories)
+2. Присоединяйтесь к нам в [Discord](https://discord.gg/junketsu)
+3. Создайте issue и предложите идею 💡
+4. Откройте PR — мы рады новым участникам!
+
+---
+
+## 🏆 Принципы Junketsu
+
+- 💡 **Инновации через эксперименты**
+- 🌐 **Open Source First**
+- 🧠 **Обучение через практику**
+- 🔧 **Технологический нейтралитет**
+
+---
+
+## 📬 Контакты
+
 [🌐 junketsu.ru](https://junketsu.ru)  
 [💬 Telegram](https://t.me/junketsu_chat)  
-[🐦 Twitter](https://twitter.com/junketsu_org)  
-
-![Последние активности](https://github.com/junketsu/junketsu/blob/main/metrics/activity-timeline.svg)
+[🐦 Twitter](https://twitter.com/junketsu_org)
 
 ---
 
-> "Программирование - это не просто написание кода, это создание вселенных"  
-> © Участник Junketsu Stacking Org  
+<blockquote>
+  <em>“Программирование — это не просто написание кода, это создание вселенных.”</em><br/>
+  — Участник Junketsu Stacking Org
+</blockquote>
 
-![Footer](https://raw.githubusercontent.com/junketsu/.github/main/profile/footer.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/junketsu/.github/main/profile/footer.svg" />
+</p>
