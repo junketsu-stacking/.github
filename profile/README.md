@@ -1,7 +1,6 @@
 # Junketsu Stacking Org 🚀  
-[![Metrics](https://github.com/junketsu/.github/actions/workflows/metrics.yml/badge.svg)](https://github.com/junketsu/.github/actions/workflows/metrics.yml)
+[![Metrics](https://github.com/junketsu/.github/github-metrics.svg)](https://github.com/junketsu/.github/actions/workflows/metrics.yml)
 ![Organization Stars](https://img.shields.io/github/stars/junketsu?style=social)
-![Contributors](https://img.shields.io/github/contributors/junketsu?color=blueviolet)
 
 Сообщество молодых инноваторов, создающих проекты разных масштабов для решения разнообразных задач. Мы сочетаем глубокие технические знания с творческим подходом для построения будущего.
 
