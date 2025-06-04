@@ -9,6 +9,8 @@ on:
 jobs:
   generate-metrics:
     runs-on: ubuntu-latest
+    environment:
+      name: TOKENS
     steps:
       - name: 🟢 Contributors chart
         uses: lowlighter/metrics@latest
