@@ -21,8 +21,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-
-
     
       - name: 🟢 Contributors chart
         uses: lowlighter/metrics@latest
@@ -51,19 +49,10 @@ jobs:
           base: ""
           config_timezone: Europe/Moscow
 
-      - name: 🔁 Activity chart
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          config_timezone: Europe/Moscow
-
       - name: 📅 Timeline chart
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics/activity-timeline.svg
+          filename: metrics/activity.svg
           base: ""
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_activity: yes
@@ -72,3 +61,12 @@ jobs:
           plugin_activity_filter: all
           plugin_activity_visibility: all
           config_timezone: Europe/Moscow
+
+      - name: Issue activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/followup.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
