@@ -11,9 +11,8 @@
 ## 📊 Организационные метрики
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Junketsu-stacking/.github/refs/heads/main/metrics/contributors.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Junketsu-stacking/.github/refs/heads/main/metrics/followup.svg" width="49%"/>
   <img src="https://raw.githubusercontent.com/Junketsu-stacking/.github/refs/heads/main/metrics/activity.svg" width="49%"/>
-  <img src="https://raw.githubusercontent.com/Junketsu-stacking/.github/refs/heads/main/metrics/activity-timeline.svg" width="49%"/>
 </p>
 
 ---
