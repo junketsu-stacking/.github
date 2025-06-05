@@ -21,6 +21,17 @@ jobs:
           base: ""
           plugin_contributors: yes
           config_timezone: Europe/Moscow
+          
+      - name: Languege activity # https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/lang_activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Junketsu-stacking
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          config_timezone: Europe/Moscow
 
       - name: 🔁 Activity chart
         uses: lowlighter/metrics@latest
