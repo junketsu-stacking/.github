@@ -12,15 +12,6 @@ jobs:
     environment:
       name: TOKENS
     steps:
-    
-      - name: 🟢 Contributors chart
-        uses: lowlighter/metrics@latest
-        with:
-          base: ""
-          filename: metrics/contributors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_contributors: yes
-          config_timezone: Europe/Moscow
           
       - name: Repositories traffic
         uses: lowlighter/metrics@latest
