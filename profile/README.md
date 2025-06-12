@@ -23,19 +23,10 @@
 
 ## 🚀 Наши проекты
 
-### 🔑 Ключевые инициативы
-
 | Проект | Описание | Стек | Статус |
 |--------|----------|------|--------|
-| [AniUtils](https://github.com/junketsu/AniUtils) | Синхронизация аниме-листов между платформами | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) | ![Active](https://img.shields.io/badge/🟢_Active-success) |
-| [JunketsuChat](https://github.com/junketsu/JunketsuChat) | Децентрализованный мессенджер на блокчейне | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js) | ![Completed](https://img.shields.io/badge/✅_Completed-informational) |
-
-### 🌱 Новые проекты
-
-| Проект | Стадия |
-|--------|--------|
-| [BestBot](https://github.com/junketsu/BestBot) | ![Incubation](https://img.shields.io/badge/🔬_Incubation-blueviolet) |
-| [Secret](https://github.com/junketsu/Secret) | ![Research](https://img.shields.io/badge/🔍_Research-lightgrey) |
+| [AniUtils](https://github.com/junketsu/AniUtils) | Сервис, объединяющий возможности популярных платформ для аниме и манги в едином интерфейсе | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) | ![Active](https://img.shields.io/badge/🟢_Active-success) |
+| [JunketsuChat](https://github.com/junketsu/JunketsuChat) | Децентрализованный мессенджер на блокчейне | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go) ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) | ![Completed](https://img.shields.io/badge/✅_Completed-informational) |
 
 ---
 
@@ -72,10 +63,11 @@
 
 ## 🌟 Как присоединиться
 
-1. 🔍 **Изучите** наши [репозитории](https://github.com/orgs/junketsu/repositories)  
-2. 💬 **Присоединяйтесь** к нашему [Discord-серверу](https://discord.gg/junketsu)  
-3. 📝 **Создайте issue** — мы открыты к предложениям  
-4. 🚀 **Отправьте pull request** — даже первая строчка кода имеет значение
+1. **Изучите** наши [репозитории](https://github.com/orgs/Junketsu-stacking/repositories)
+3. **Изучите** документацию (в частности CONTRUBUTING.md) в интересующем вас репозитории
+4. **Создайте issue** — мы открыты к предложениям
+5. **Отправьте pull request** — даже первая строчка кода имеет значение
+6. **Присоединяйтесь** к нашему [Discord-серверу](https://discord.gg/junketsu) 
 
 ---
 
@@ -85,13 +77,6 @@
 - 📖 **Open Source First** — 90% проектов в открытом доступе  
 - 🧭 **Обучение через практику** — менторинг и развитие для каждого  
 - ⚙️ **Технологический нейтралитет** — выбираем лучшее под задачу  
-
----
-
-## 📬 Контакты
-
-- 🌐 [junketsu.ru](https://junketsu.ru)  
-- 💬 [Telegram](https://t.me/)  
 
 ---
 
