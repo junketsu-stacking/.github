@@ -8,24 +8,11 @@
 
 ---
 
-## 📊 Организационные метрики
-
-<p align="center">
-  <table align="center">
-    <tr valign="top">
-      <td><img src="https://raw.githubusercontent.com/Junketsu-stacking/.github/main/metrics/activity.svg" width="100%"/></td>
-      <td><img src="https://raw.githubusercontent.com/Junketsu-stacking/.github/main/metrics/followup.svg" width="100%"/></td>
-    </tr>
-  </table>
-</p>
-
----
-
 ## 🚀 Наши проекты
 
 | Проект | Описание | Стек | Статус |
 |--------|----------|------|--------|
-| [AniUtils](https://github.com/junketsu/AniUtils) | Сервис, объединяющий возможности популярных платформ для аниме и манги в едином интерфейсе | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) | ![Active](https://img.shields.io/badge/🟢_Active-success) |
+| [AniUtils](https://github.com/junketsu/AniUtils) | Сервис, объединяющий возможности популярных платформ для аниме и манги в едином интерфейсе | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) | ![Active](https://img.shields.io/badge/🟢_Active-success) |
 | [JunketsuChat](https://github.com/junketsu/JunketsuChat) | Децентрализованный мессенджер на блокчейне | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go) ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) | ![Completed](https://img.shields.io/badge/✅_Completed-informational) |
 
 ---
